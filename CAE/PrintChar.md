@@ -88,6 +88,8 @@ MBR维基百科页面：[https://zh.wikipedia.org/wiki/%E4%B8%BB%E5%BC%95%E5%AF%
 
 [X86指令编码的那些事儿](http://ytliu.info/blog/2016/12/10/x86zhi-ling-bian-ma-de-na-xie-shi-er/)
 
+[http://www.ee.hacettepe.edu.tr/~alkar/ELE414/](http://www.ee.hacettepe.edu.tr/~alkar/ELE414/)第三个附件（8088/8086 Instruction Set, Machine Codes, Addressing Modes）
+
 #####实验用虚拟机文件
 
 {提供下载附件}
