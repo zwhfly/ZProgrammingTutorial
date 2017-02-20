@@ -92,7 +92,7 @@ MBR维基百科页面：[https://zh.wikipedia.org/wiki/%E4%B8%BB%E5%BC%95%E5%AF%
 
 #####实验用虚拟机文件
 
-{提供下载附件}
+[VMWare虚拟机存档](./CAE.VMWare.7z)
 
 #####十六进制编辑器WinHex
 
