@@ -38,6 +38,8 @@ MBR维基百科页面：[https://zh.wikipedia.org/wiki/%E4%B8%BB%E5%BC%95%E5%AF%
 
 {记住65536以内的2的整数次幂，记住2^32的数量级}
 
+#####ASCII编码
+
 #####存储程序原理与冯·诺伊曼结构
 
 {简化的计算机宏观结构（CPU、内存、IO设备的三角关系）}
@@ -72,13 +74,23 @@ MBR维基百科页面：[https://zh.wikipedia.org/wiki/%E4%B8%BB%E5%BC%95%E5%AF%
 
 ####目标
 
-用机器码写一个PC引导程序并运行，在屏幕上显示一个字符“A”。
+用机器码写一个PC引导程序并运行，在屏幕上显示一个字符“A”，并且保持显示。
+
+如图：
+
+![VMWare显示字符](./PrintChar-result.png)
 
 {三步：填充参数、执行调用、无限循环}
 
 {最少可仅用三种指令：mov、int、jmp}
 
 {int 10h/AH=0Ah}
+
+#####8086的数据寄存器
+
+{AX,BX,CX,DX,SI,DI,SP,BP}
+
+{AH,AL,BH,BL,CH,CL,DH,DL}
 
 #####8086指令的编码格式
 
